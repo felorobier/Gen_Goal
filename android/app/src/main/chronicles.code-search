@@ -1,0 +1,32 @@
+# Query: chronicles
+# ContextLines: 1
+
+8 results - 6 files
+
+flutter-game-main\android\app\build.gradle:
+  34  android {
+  35:     namespace "com.eco_conscience.ecoshift_chronicles"
+  36      compileSdkVersion flutter.compileSdkVersion
+
+  53          // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+  54:         applicationId "com.eco_conscience.ecoshift_chronicles"
+  55          // You can update the following values to match your application needs.
+
+flutter-game-main\android\app\src\main\kotlin\com\GenGoal\MainActivity.kt:
+  1: package com.eco_conscience.ecoshift_chronicles
+  2  
+
+flutter-game-main\lib\components\story_progress.dart:
+  21          MsgFormat(
+  22:             "Welcome to the GenGoal, where every decision you make affects the world around you. Your choices have the power to preserve harmony in your environment or unleash chaos.",
+  23              "エコシフト クロニクルへようこそ。ここでは、あなたのすべての決定が周りの世界に影響します。あなたの選択は、環境の調和を保つ力を持ち、または混沌を解き放つ力を持っています。",
+
+flutter-game-main\lib\widgets\pause_menu_overlay.dart:
+  93                  await playClickSound(widget.game);
+  94:                 openLink("https://devpost.com/software/GenGoal");
+  95                }, color: Colors.brown),
+
+flutter-game-main\lib\widgets\start_screen_overlay.dart:
+  138                                        openLink(
+  139:                                           "https://devpost.com/software/GenGoal");
+  140                                      }),

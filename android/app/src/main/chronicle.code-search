@@ -1,0 +1,35 @@
+# Query: chronicle
+# ContextLines: 1
+
+8 results - 6 files
+
+flutter-game-main\firebase.json:
+  1: {"flutter":{"platforms":{"android":{"default":{"projectId":"GenGoal-f4b79","appId":"1:85722245468:android:baa25ce411badaed2b3999","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"GenGoal-chronicles-f4b79","configurations":{"android":"1:85722245468:android:baa25ce411badaed2b3999","ios":"1:85722245468:ios:e34649c37678a2d92b3999","macos":"1:85722245468:ios:e34649c37678a2d92b3999","web":"1:85722245468:web:b3f56cb67150db122b3999","windows":"1:85722245468:web:a279d1bd6b0e798b2b3999"}}}}}}
+
+flutter-game-main\android\app\build.gradle:
+  34  android {
+  35:     namespace "com.eco_conscience.ecoshift_chronicles"
+  36      compileSdkVersion flutter.compileSdkVersion
+
+  53          // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+  54:         applicationId "com.eco_conscience.ecoshift_chronicles"
+  55          // You can update the following values to match your application needs.
+
+flutter-game-main\android\app\src\main\kotlin\com\eco_conscience\ecoshift_chronicles\MainActivity.kt:
+  1: package com.eco_conscience.ecoshift_chronicles
+  2  
+
+flutter-game-main\lib\components\story_progress.dart:
+  21          MsgFormat(
+  22:             "Welcome to the GenGoal, where every decision you make affects the world around you. Your choices have the power to preserve harmony in your environment or unleash chaos.",
+  23              "エコシフト クロニクルへようこそ。ここでは、あなたのすべての決定が周りの世界に影響します。あなたの選択は、環境の調和を保つ力を持ち、または混沌を解き放つ力を持っています。",
+
+flutter-game-main\lib\widgets\pause_menu_overlay.dart:
+  93                  await playClickSound(widget.game);
+  94:                 openLink("https://devpost.com/software/GenGoal");
+  95                }, color: Colors.brown),
+
+flutter-game-main\lib\widgets\start_screen_overlay.dart:
+  138                                        openLink(
+  139:                                           "https://devpost.com/software/GenGoal");
+  140                                      }),

@@ -1,0 +1,652 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "outdoors.tmx",
+    "expandedProjectPaths": [
+        "tileMaps",
+        "."
+    ],
+    "fileStates": {
+        "13_Conference_Hall_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "16_1Office_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1_2Terrains_and_Fences_32x32.png.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "1_2Terrains_and_Fences_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "1_Room_Builder_borders_32x32.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "1_Terrains_and_Fences_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.75
+        },
+        "21_Clothing_Store_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "2_1City_Terrains_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "2_City_Terrains_32x32.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "2_LivingRoom_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "2_LivingRoom_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "3_1Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "3_1City_Props_32x32.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "3_2Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "3_Bathroom_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "3_City_Props_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "4_1Bedroom_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "4_1Generic_Buildings_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "4_Bedroom_16x16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "4_Bedroom_32x32.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "4_Bedroom_48x48.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "51_Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "52_Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "54_Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "5_1Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "5_2Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "5_3Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "5_5Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "5_6Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "5_Classroom_and_library_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "5_Floor_Modular_Buildings_32x32.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.75
+        },
+        "5_Floor_Modular_Buildings_Orange_32x32.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/1_Room_Builder_borders_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/3_1Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/3_2Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/4_1Bedroom_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/Room_Builder_Floors_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tileSets/Room_Builder_Walls_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "Generic_Home_1_preview_16x16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Interiors_16x16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Interiors_free_16x16.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "Interiors_free_48x48.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Modular_Buildings.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.75
+        },
+        "Orange2_Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Orange_Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_16x16.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_32x32.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.5
+        },
+        "Room_Builder_48x48.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 0.25
+        },
+        "Room_Builder_Floors_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_Floors_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_Walls_32x32.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Room_Builder_borders_32x32.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TopDownHouse_FloorsAndWalls.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TopDownHouse_FurnitureState1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "UI_32x32.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "bathroom.tmx": {
+            "expandedObjectLayers": [
+                4,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 314.33333333333326,
+                "y": 442.99999999999994
+            }
+        },
+        "busStand.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "fancy_mat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "home.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 528,
+                "y": 115.5
+            }
+        },
+        "home2.tmx": {
+            "expandedObjectLayers": [
+                2,
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 243.33333333333331,
+                "y": 80.99999999999999
+            }
+        },
+        "home3.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320,
+                "y": 184.33333333333331
+            }
+        },
+        "home32.tmx": {
+            "expandedObjectLayers": [
+                2,
+                7
+            ],
+            "scale": 1.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 275.3333333333333,
+                "y": 206.99999999999997
+            }
+        },
+        "home4.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2.79359375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 158.9350634822977,
+                "y": 96.11275798422733
+            }
+        },
+        "home48.tmx": {
+            "scale": 0.9311979166666666,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 477.8790760109626,
+                "y": 288.3382739526819
+            }
+        },
+        "image (4) (Custom).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "image (4).tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "imageedit_2_6377531781.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "interior.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.25
+        },
+        "office.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 320,
+                "y": 192.33333333333331
+            }
+        },
+        "outdoors.tmx": {
+            "expandedObjectLayers": [
+                6,
+                7
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 514.5,
+                "y": 285.5
+            }
+        },
+        "outdoors1.tmx": {
+            "scale": 0.8945833333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 478.9939450395902,
+                "y": 272.19375873311606
+            }
+        },
+        "outdoorsBus.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 480,
+                "y": 272.66666666666663
+            }
+        },
+        "outdoorsOffice.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 970.3333333333333,
+                "y": 409.66666666666663
+            }
+        },
+        "outdoorsTaco.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 480,
+                "y": 272.66666666666663
+            }
+        },
+        "skyline.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1.5
+        },
+        "startingSequence.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480,
+                "y": 481
+            }
+        },
+        "tacoTruck.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tileMaps/1../tileSets/1_2Terrains_and_Fences_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/1../tileSets/_2Terrains_and_Fences_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/16_1Office_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/1_Room_Builder_borders_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/2_1City_Terrains_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/2_LivingRoom_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/3_1City_Props_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/4_1Bedroom_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/4_1Generic_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/5_1Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/5_3Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/5_5Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/Room_Builder_Floors_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/Room_Builder_Walls_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/bathroom.tmx": {
+            "scale": 1.3557291666666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 314.22205147906266,
+                "y": 470.226661544372
+            }
+        },
+        "tileMaps/fancy_mat.tsx": {
+            "scaleInDock": 1
+        },
+        "tileMaps/home.tmx": {
+            "scale": 1.3557291666666664,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.38532462543225,
+                "y": 192.1475220898963
+            }
+        },
+        "tileMaps/office.tmx": {
+            "scale": 1.4947656249999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.78257460931377,
+                "y": 192.33784560706636
+            }
+        },
+        "tileMaps/outdoors.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 426.66666666666663,
+                "y": 363.33333333333326
+            }
+        },
+        "tileMaps/outdoorsBus.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 500,
+                "y": 193.99999999999994
+            }
+        },
+        "tileMaps/outdoorsOffice.tmx": {
+            "scale": 0.956985294117647,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.63119477525936,
+                "y": 272.20898962735305
+            }
+        },
+        "tileMaps/outdoorsTaco.tmx": {
+            "scale": 0.9965104166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.67386191397054,
+                "y": 271.4472377567553
+            }
+        },
+        "tileMaps/startingSequence.tmx": {
+            "scale": 0.8431249999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.16975537435144,
+                "y": 479.7627872498148
+            }
+        },
+        "tileMaps/tileSets/5_3Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/13_Conference_Hall_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/16_1Office_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/1_2Terrains_and_Fences_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/1_Room_Builder_borders_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/2_1City_Terrains_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/2_LivingRoom_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/3_1Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/3_1City_Props_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/3_2Bathroom_32x32.png.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/4_1Bedroom_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/4_1Generic_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_1Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_2Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_3Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_5Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_6Floor_Modular_Buildings_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/5_Classroom_and_library_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/Room_Builder_Floors_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/Room_Builder_Walls_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/busStand.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/fancy_mat.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/tacoTruck.tsx": {
+            "scaleInDock": 1
+        },
+        "tileSets/vehicles.tsx": {
+            "scaleInDock": 1
+        },
+        "vehicles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/tiles/tileSets",
+    "last.imagePath": "C:/Users/MSI INDIA/StudioProjects/GenGoal/assets/images/Interiors/32x32",
+    "map.fixedSize": true,
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 20,
+    "openFiles": [
+        "outdoorsOffice.tmx",
+        "outdoors.tmx",
+        "bathroom.tmx",
+        "outdoorsBus.tmx",
+        "outdoorsTaco.tmx",
+        "startingSequence.tmx",
+        "office.tmx"
+    ],
+    "project": "Eco Conscience.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "outdoorsOffice.tmx",
+        "office.tmx",
+        "startingSequence.tmx",
+        "outdoorsTaco.tmx",
+        "outdoorsBus.tmx",
+        "bathroom.tmx",
+        "outdoors.tmx",
+        "tileMaps/bathroom.tmx",
+        "tileMaps/home.tmx",
+        "tileMaps/outdoorsOffice.tmx",
+        "tileMaps/office.tmx",
+        "tileMaps/outdoorsBus.tmx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
